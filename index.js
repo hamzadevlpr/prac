@@ -1,1 +1,1 @@
-const employee = ["Dev"]
+const employee = []
